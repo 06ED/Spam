@@ -1,8 +1,6 @@
 import requests
 
-ACCESS_TOKEN = "vk1.a.GB5LQH5nuT1rNNC4e_5cbNdO18SpdhSiSVz-ZQ-9MBfoFkArBPAgsz8N" \
-               "TmDQdoTdhMSoYb8mKxOEf_QXMTmGX2_OjpP5KhUnzWhd16ocpD-iDzKsO7Z2ML" \
-               "XVuhCUC23inToCWFDNv1iCSxffwZphVGD3hDhQtMFV8CmLs_NW7VMy2XLRsSkY1-Ugjimr6Dc7"
+ACCESS_TOKEN = ""
 VERSION = "5.131"
 TIME = 5
 USERS_ID = []
